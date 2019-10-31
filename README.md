@@ -12,9 +12,9 @@ dan sebaliknya jika kondisi bernilai false maka statemen didalam blok tersebut t
 ![iftrue/false](https://github.com/dimashst777/labspy02/blob/master/gambar/phycharm%20yang%20benar.png)
 
 
-Bil1 = int(input("Masukkan Bilangan 1:"))
-Bil2 = int(input("Masukkan Bilangan 2:"))
-Bil3 = int(input("Masukkan Bilangan 3:"))
+Bil1 = int(input("Masukkan Bilangan 1:"))  
+Bil2 = int(input("Masukkan Bilangan 2:"))  
+Bil3 = int(input("Masukkan Bilangan 3:"))  
 
 if int(Bil1 > Bil2) and (Bil1 > Bil3):
 
