@@ -71,6 +71,10 @@ else:
 ![outputstatement](https://github.com/dimashst777/labspy02/blob/master/gambar/output%20staement%20if%20else%2Cel%20if.png)
 
 
+#contoh flowchart if
+
+
+![flowchartif](https://github.com/dimashst777/labspy02/blob/master/gambar/flowchart.png)
 
 
 
