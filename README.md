@@ -46,7 +46,7 @@ yang berarti bahwa kondisi tersebut bernilai false.
 Intinya struktur ini adalah jika kondisi bernilai true maka statemen didalam if akan 
 dieksekusi dan jika bernilai false maka statemen yang dieksekusi adalah statemen didalam else
 
-####pengertian elif
+####pengertian elif  
 Struktur else if hampir sama dengan struktur if else, ketika kalian menggunakan struktur 
 if else secara berulang harus menggunakan struktur esle if.
 
